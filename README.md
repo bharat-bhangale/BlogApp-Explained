@@ -1,3 +1,5 @@
+https://github.com/bharat-bhangale/BlogApp/assets/167877538/74f281cb-f749-4e0a-849c-562e3064eaae
+
 🚀 Introducing BlogApp: A Seamless Blogging Experience 📝
 
 I'm thrilled to share the launch of my latest project, BlogApp, a full-stack application designed to simplify and enhance your blogging experience. Crafted with cutting-edge technologies, BlogApp provides a robust platform where users can effortlessly create, read, and update posts.
@@ -27,4 +29,3 @@ Thank you for your support! If you have any feedback or suggestions, feel free t
 #ReactJS #NodeJS #ExpressJS #MongoDB #Vite #JWT #WebDevelopment #Blogging #OpenSource #Tech #JavaScript
 
 
-https://github.com/bharat-bhangale/BlogApp/assets/167877538/74f281cb-f749-4e0a-849c-562e3064eaae
